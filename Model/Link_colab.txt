@@ -1,1 +1,2 @@
+trên colab dùng 3 model để train thử , model lưu chỉ dùng Random forest
 https://colab.research.google.com/drive/1I5VI8hhqml3NtXifSPl44VA1DMoC_EEq#scrollTo=1rsI7173yfQW
